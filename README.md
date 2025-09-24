@@ -1,16 +1,19 @@
-# task_manger
+# 🚀 Welcome to the Task Manger Page repository!
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 🔧 Overview:
 
-A few resources to get you started if this is your first Flutter project:
+* **Built with Dart & Flutter Framework.**<br>
+* **No external packages used.**<br>
+* **✅ Task List with default tasks (Buy groceries, Walk the dog, Complete Flutter project).**<br>
+* **🔄 Reorder Tasks by dragging the handle icon.**<br>
+* **❌ Swipe Left to delete a task (red background + trash icon).**<br>
+* **⚠️ Delete Confirmation Dialog before removing a task permanently.**<br>
+* **↩️ Undo Option via Snackbar after deletion.**<br>
+* **☑️ Checkbox to mark tasks as completed (strikethrough text style).**<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🎨 UI Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[task_manger.webm](https://github.com/user-attachments/assets/7fcf1687-cfd1-44ac-ae94-9196b70ababd)
