@@ -17,3 +17,27 @@
 
 
 [task_manger.webm](https://github.com/user-attachments/assets/7fcf1687-cfd1-44ac-ae94-9196b70ababd)
+
+
+
+## 🚀 Getting Started
+
+Make sure you have **Flutter SDK** installed.
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/AbdoGKash/task_manger_page.git
+```
+### 2️⃣Move into the project directory
+```bash
+cd task_manger_page
+```
+### 3️⃣Install dependencies
+```bash
+flutter pub get
+```
+### 4️⃣ Run the app
+```bash
+flutter run
+```
+
